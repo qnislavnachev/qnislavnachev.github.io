@@ -15,7 +15,7 @@ div.keypad {
 }
 
 input {
-	direction: rtl;
+	text-align: right;
 	width: 70%;
 	height: 7%; 
 	margin-top: 20px;
